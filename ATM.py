@@ -1,9 +1,9 @@
 
 accountInfo = {
-    "Name": "Shubham Lohar",
-    "Account Number": "9098787676676",
-    "Available Balance": 20000,
-    "PIN": 1234
+    "Name": "Amruta Ghatage",
+    "Account Number": "8976554534345",
+    "Available Balance": 300000,
+    "PIN": 3245
 }
 
 print("-------- WELCOME TO ATM --------")
